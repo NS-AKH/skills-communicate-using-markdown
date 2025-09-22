@@ -9,7 +9,8 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-- [x] Finish exercises GitHub
-- [ ] Revise lesson
-- [ ] Prepare for next lesson
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
