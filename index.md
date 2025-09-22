@@ -8,3 +8,8 @@ This commit had added text content to the empty index.md file.
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Finish exercises GitHub
+- [ ] Revise lesson
+- [ ] Prepare for next lesson
+
